@@ -17,7 +17,7 @@ Maven Roasters, a New York City coffee shop chain with three locations, is looki
 
 ## Dashboard
 
-[Excel Dashboard](~/Images/dashboard_mage.png)
+![Excel Dashboard](/Images/dashboard_image.png)
 
 
 
