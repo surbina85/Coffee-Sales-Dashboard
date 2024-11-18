@@ -1,6 +1,10 @@
+This a project from Maven Analytics. Go to this [link](https://mavenanalytics.io/project/21796) to see the project page.
+
+I have also created a similar version in Tableau that you can see [here](https://public.tableau.com/app/profile/sergio.urbina5986/viz/MavenRoastersSalesDashboard_17308180238370/Dashboard).
+
 ## Background
 
-Maven Roasters, a New York City coffee shop chain with three locations, is looking to gain a deeper understanding of customer purchasing patterns to optimize operations. To support this goal, they gathered transactional data from January to June 2023.
+Maven Roasters, a New York City coffee shop chain with three locations, is looking to better understand customer purchasing patterns to optimize operations. They gathered transactional data from January to June 2023 to support this goal.
 
 
 
@@ -8,7 +12,12 @@ Maven Roasters, a New York City coffee shop chain with three locations, is looki
 
 1. **Data Preparation:** Clean and organise the data in Microsoft Excel.
 2. **Data Exploration:** Analyse customer purchasing behaviour and identify key trends across locations.
-3. **Dashboard Creation:** Developed an interactive MS Excel dashboard to provide Maven Roasters’ management team with insights into sales performance across the three branches.
+3. **Dashboard Creation:** Develop an interactive dashboard to provide Maven Roasters’ management team with insights into sales performance across the three branches.
+
+
+## Dashboard
+
+[Excel Dashboard](~/Images/dashboard_mage.png)
 
 
 
